@@ -1,1 +1,4 @@
 # Dashboard-de-vendas-
+# Esta é uma planilha fictícia, mas é um exemplo de controle de vendas de produtos da Xbox. 
+# Foi construído um Dashbord para mostrar o controle de vendas dos produtos. Através de uma tabela dinâmica, foi selecionado o que era necessário mostrar seguindo as perguntas de negócios descritas na aba cálculos. 
+# O dashboard foi montado de acordo que mostrasse visulmente de forma simples e direta esses resultados com base nas perguntas. Onde é possível ver os valores, foi atrelado uma fórmula (Ex: =C̳álculos!F26), que é o valor da soma dos cupons, referente aos produtos. Como o excel não aceita atrelar essa fórmula diretamente no total da tabela dinâmica, esse total foi inserido em uma célula avulsa com a fómula =C̳álculos!F48, que é somente comolar o = e selecionar a célula qu esta com o valor total na tabela dinâmica.
